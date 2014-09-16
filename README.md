@@ -1,4 +1,3 @@
-ninidea.github.io
-=================
-
-ninidea web pages
+ninidea
+================
+Everythings is worth commemorating.
